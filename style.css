@@ -1,0 +1,31 @@
+*{
+    margin:0 px;
+    padding:0 px;
+}
+body{
+    width: 100vw;
+    height: 95vh;
+    background-color: aqua;
+    /* background-image: url(); */
+    display: grid; 
+    place-items: center;  
+}
+.heading #tempcal{
+    margin-top: 30px;
+    
+}
+#butt{
+    padding: 5px 25px;
+    margin-left: 10rem;
+    align-items: center;
+    margin-top: 1.2rem;
+}
+.rescontainer1{
+    font-size: large;
+    margin-left: 50px;
+    color: black;
+}
+.rescontainer2{
+    font-size: large;
+    color: black;
+}
